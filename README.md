@@ -30,3 +30,21 @@ This is the **starter code** for the Live Coding session. During the session, we
 1.  Open this folder in **VS Code**.
 2.  Right-click `index.html` and select **"Open with Live Server"**.
 3.  Follow along with the speaker!
+
+---
+
+## Documentation
+
+- [docs/state.md](docs/state.md) - Teaching position / handover
+- [docs/index.md](docs/index.md) - Doc inventory
+- [FLAGS.md](FLAGS.md) - Improvement register
+- [AGENTS.md](AGENTS.md) - Agent load order
+
+## Contributors
+
+This project is made possible by the GDG PUP community:
+
+| Role | Name |
+| --- | --- |
+| Development | [Erwin Daguinotas](https://www.linkedin.com/in/erwin-daguinotas/) - Web Development Lead |
+| Development | [Gerald Berongoy](https://www.linkedin.com/in/geraldberongoy) - Senior Backend Developer / Web Development Learning Head |
