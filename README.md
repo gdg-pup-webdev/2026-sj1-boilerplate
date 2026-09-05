@@ -1,10 +1,16 @@
 # GDG PUP Webverse vol. 1: Frontend Basics - Boilerplate
 
+[![Status: Teaching](https://img.shields.io/badge/Status-Teaching-blue)](docs/state.md)
+[![Stack: HTML/CSS](https://img.shields.io/badge/Stack-HTML%2FCSS-black)](#about)
+[![FMD philosophy: 1.31.0](https://img.shields.io/badge/FMD%20philosophy-1.31.0-blue)](AGENTS.md)
+
+
 Starter code for the Live Coding session. During the session, we populate these files to build a Student Portfolio website.
 
 ## Table of Contents
 
 - [About](#about)
+- [Start here](#start-here)
 - [What these files are for](#what-these-files-are-for)
 - [Quick start](#quick-start)
 - [Documentation](#documentation)
@@ -16,6 +22,12 @@ This is the **starter code** for the Live Coding session. During the session, we
 
 - Sparky Image
 - Flexbox and Grid Layouts
+
+## Start here
+
+- **Humans:** this README, then [docs/state.md](docs/state.md)
+- **Agents:** [AGENTS.md](AGENTS.md) (state → index → FLAGS)
+- **Contributors:** table below
 
 ## What these files are for
 
@@ -56,9 +68,11 @@ git clone https://github.com/gdg-pup-webdev/sj1-boilerplate.git
 
 ## Contributors
 
-This project is made possible by the GDG PUP community:
+This project is made possible by the GDG PUP community.
 
-| Role | Name |
-| --- | --- |
-| Development | [Erwin Daguinotas](https://www.linkedin.com/in/erwin-daguinotas/) - Web Development Lead |
-| Development | [Gerald Berongoy](https://www.linkedin.com/in/geraldberongoy) - Senior Backend Developer / Web Development Learning Head |
+| Name | Role | GitHub |
+| --- | --- | --- |
+| [Carlos Jerico Dela Torre](https://www.linkedin.com/in/delatorrecj) | Chief Technology Officer (2025-2026) | [@delatorrecj](https://github.com/delatorrecj) |
+| [Erwin Daguinotas](https://www.linkedin.com/in/erwin-daguinotas) | Web Development Lead | [@SauceCode01](https://github.com/SauceCode01) |
+| [Gerald Berongoy](https://www.linkedin.com/in/geraldberongoy) | Senior Backend Developer / Web Development Learning Head | [@geraldsberongoy](https://github.com/geraldsberongoy) |
+
